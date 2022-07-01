@@ -6,6 +6,7 @@ public class Student
 	public void deepak()
 	{
 		System.out.println("welcome to all of you ");
+		System.out.println("welcome to github ");
 	}
 	public static void main(String[] args) 
 	{
